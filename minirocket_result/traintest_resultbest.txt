@@ -1,0 +1,72 @@
+Using device: cuda
+Validation Accuracy (KNN): 45.02%
+Validation F1 Score (KNN): 0.37
+Test Accuracy (KNN): 41.67%
+Test F1 Score (KNN): 0.36
+Validation Accuracy (XGBoost): 66.14%
+Validation F1 Score (XGBoost): 0.64
+Test Accuracy (XGBoost): 67.06%
+Test F1 Score (XGBoost): 0.65
+Using device: cuda
+Validation Accuracy (KNN): 48.21%
+Validation F1 Score (KNN): 0.39
+Test Accuracy (KNN): 42.06%
+Test F1 Score (KNN): 0.37
+Validation Accuracy (XGBoost): 64.94%
+Validation F1 Score (XGBoost): 0.62
+Test Accuracy (XGBoost): 69.05%
+Test F1 Score (XGBoost): 0.67
+Using device: cuda
+Validation Accuracy (KNN): 46.57%
+Validation F1 Score (KNN): 0.40
+Test Accuracy (KNN): 39.88%
+Test F1 Score (KNN): 0.35
+Validation Accuracy (XGBoost): 67.76%
+Validation F1 Score (XGBoost): 0.66
+Test Accuracy (XGBoost): 67.86%
+Test F1 Score (XGBoost): 0.66
+Using device: cuda
+Validation Accuracy (KNN): 48.06%
+Validation F1 Score (KNN): 0.40
+Test Accuracy (KNN): 37.50%
+Test F1 Score (KNN): 0.33
+Validation Accuracy (XGBoost): 67.76%
+Validation F1 Score (XGBoost): 0.66
+Test Accuracy (XGBoost): 64.88%
+Test F1 Score (XGBoost): 0.63
+Using device: cuda
+Validation Accuracy (KNN): 45.97%
+Validation F1 Score (KNN): 0.38
+Test Accuracy (KNN): 37.50%
+Test F1 Score (KNN): 0.31
+Validation Accuracy (XGBoost): 68.66%
+Validation F1 Score (XGBoost): 0.67
+Test Accuracy (XGBoost): 66.67%
+Test F1 Score (XGBoost): 0.65
+Using device: cuda
+Validation Accuracy (KNN): 44.18%
+Validation F1 Score (KNN): 0.37
+Test Accuracy (KNN): 38.10%
+Test F1 Score (KNN): 0.33
+Validation Accuracy (XGBoost): 69.25%
+Validation F1 Score (XGBoost): 0.67
+Test Accuracy (XGBoost): 64.29%
+Test F1 Score (XGBoost): 0.62
+Using device: cuda
+Validation Accuracy (KNN): 46.27%
+Validation F1 Score (KNN): 0.39
+Test Accuracy (KNN): 40.48%
+Test F1 Score (KNN): 0.35
+Validation Accuracy (XGBoost): 69.55%
+Validation F1 Score (XGBoost): 0.68
+Test Accuracy (XGBoost): 64.29%
+Test F1 Score (XGBoost): 0.62
+Using device: cuda
+Validation Accuracy (KNN): 39.88%
+Validation F1 Score (KNN): 0.34
+Test Accuracy (KNN): 45.97%
+Test F1 Score (KNN): 0.39
+Validation Accuracy (XGBoost): 66.07%
+Validation F1 Score (XGBoost): 0.64
+Test Accuracy (XGBoost): 69.25%
+Test F1 Score (XGBoost): 0.67
